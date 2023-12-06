@@ -213,10 +213,11 @@ div#subtitle {
 
 .contact > li {
     text-decoration: none;
-    margin-right: 12px;
     background: #d2d2d240;
     border-radius: 5px;
-    padding: 0px 10px;
+	margin-right: 7px;
+    padding: 0px 7px;
+	font-size: 14px;
 }
 
 em {
